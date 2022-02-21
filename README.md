@@ -1,6 +1,6 @@
 # p-gaming
 
-Supervised Classification of PvP Video Game Outcomes (Python)
+## Supervised Classification of PvP Video Game Outcomes (Python)
 - Dataset: League of Legends, via Riot API
 - ML: via <i>scikit-learn</i>
 
